@@ -29,8 +29,7 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter: Synystergeo15
-facebook: geovanny.solano15
+twitter:
   username: Synystergeo15
   card: summary
 logo: logo.png
