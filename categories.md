@@ -1,6 +1,11 @@
 ---
-layout: archive-taxonomies
-type: categories
-title: Categories
+layout: pagina
+type: estudios
+title: estudios
 permalink: /categories/
 ---
+
+unidad educativa dante alighieri.
+instruccion primaria terminada.
+instruccion secundaria terminada.
+titulo de bachiller obtenido de comercio y administracion en aplicaciones informaticas.
