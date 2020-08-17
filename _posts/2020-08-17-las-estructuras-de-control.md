@@ -1,7 +1,7 @@
 layout: post
 title:  "las estructuras de control en C++"
 date:   2020-08-16 21:35:56 -0500
-categories: programacion en c
+tags: programacion en c
 ---
 las estructuras de control en c son aquellas que nos permiten ejecutar una o varias instrucciones dependiendo de la condicion
 

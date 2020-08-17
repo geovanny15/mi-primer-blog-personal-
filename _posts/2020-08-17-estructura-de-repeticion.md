@@ -2,7 +2,7 @@
 layout: post
 title:  "estructuras de repeticion en c++"
 date:   2020-08-16 21:35:56 -0500
-categories: programacion en c
+tags: programacion en c
 ---
 
 Una Estructura de Repetición en C++ le permite al programador especificar que se repita una acción
@@ -25,4 +25,4 @@ Sintaxis do Sentencias while (<condicion>); Ejemplo do { cout <<"entre la nota";
 for
 
 La estructura de repetición for manera de manera automática todos los detalles de la repetición controlada por contador.
-Sintaxis for (<inicio;final;contador>) Ejemplo: for(int i = 0;i <= 10;i++) cout <<”hola”; 
+Sintaxis for (<inicio;final;contador>) Ejemplo: for(int i = 0;i <= 10;i++) cout <<”hola”;
