@@ -2,7 +2,7 @@
 layout: page
 type: instruccion
 title: Estudios
-permalink: /categories/
+permalink: /instruccion/
 ---
 
 unidad educativa dante alighieri
