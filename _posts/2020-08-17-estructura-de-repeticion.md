@@ -3,6 +3,7 @@ layout: post
 title:  "estructuras de repeticion en c++"
 date:   2020-08-16 21:35:56 -0500
 tags: programacion en c
+logo: dev-c.png 
 ---
 
 Una Estructura de Repetición en C++ le permite al programador especificar que se repita una acción
