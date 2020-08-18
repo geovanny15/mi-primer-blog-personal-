@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de mi
-permalink: /about/
+permalink: /Acerca de mi/
 ---
 mi nombre completo es erwin geovanny solano chavez actualmente tengo 25 años
 
