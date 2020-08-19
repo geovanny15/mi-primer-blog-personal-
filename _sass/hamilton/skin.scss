@@ -74,7 +74,7 @@ table {
 
 .site-title {
   color: $text-color;
-  
+
   &:visited {
     color: $text-color;
   }
@@ -157,10 +157,4 @@ ul.post-tags {
 
 .sidebar-section {
   border-bottom-color: $border-color-light;
-}
-
-.feed-subscribe {
-  a {
-    color: $subscribe-color;
-  }
 }
