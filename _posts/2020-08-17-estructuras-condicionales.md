@@ -1,14 +1,15 @@
+---
 layout: post
 title:  "las estructuras de control en C++"
 date:   2020-08-16 21:35:56 -0500
 tags: programacion en c
 ---
-las estructuras de control en c son aquellas que nos permiten ejecutar una o varias instrucciones dependiendo de la condicion
+las estructuras de control en c son aquellas que nos permiten ejecutar una o varias instrucciones dependiendo de la condición
 
 *Estructura condicional:
 en el caso de las estructuras condicionales Ejecuta una instrucción (o varias) dependiendo de si una condición es cierta o no.
 
-IF ejecuta un bloque de sentencias si o no
+IF ejecuta un bloque de sentencias sí o no
 
 If-else ejecuta un bloque de sentencias entre dos opciones
 
@@ -26,5 +27,5 @@ Switch ejecuta un bloque de sentencias entre varias opciones
 
 }
 
-como podemos observar ese pequeño ejemplo espero pueda servirte
+cómo podemos observar ese pequeño ejemplo espero pueda servirte
 para entender un poco sobre este bonito tema.

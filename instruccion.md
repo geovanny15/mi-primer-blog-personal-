@@ -4,13 +4,12 @@ type: instruccion
 title: Estudios
 permalink: /instruccion/
 ---
+unidad educativa dante Alighieri
 
-unidad educativa dante alighieri
+instrucción primaria terminada
 
-instruccion primaria terminada
+instrucción secundaria terminada
 
-instruccion secundaria terminada
+título de bachiller obtenido
 
-titulo de bachiller obtenido
-
-de comercio y administracion en aplicaciones informaticas.
+de comercio y administración en aplicaciones informáticas.
