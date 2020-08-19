@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "porque elegi ser un ingeniero en software"
+title:  "¿porque elegí ser un ingeniero en software?"
 date:   2020-08-16 21:35:56 -0500
-tags: programacion en c
-logo: /58194257-ingeniería-de-software-carta-con-palabras-clave-y-los-iconos-diseño-plana.jpg
+tags: programación en c
+
 ---
 
 la ingeniería de software es un mundo realmente muy increíble y maravilloso que desde pequeño llamo mucho mi atención,
