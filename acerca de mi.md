@@ -3,7 +3,7 @@ layout: page
 title: Acerca de mi
 permalink: /Acerca de mi/
 ---
-mi nombre completo es Erwin geovanny solano chavez actualmente tengo 25 años
+mi nombre completo es Erwin geovanny solano chávez actualmente tengo 25 años
 
 
 soy de la ciudad de Guayaquil - Ecuador estudio en la universidad de guayaquil
