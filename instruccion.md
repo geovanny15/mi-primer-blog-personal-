@@ -1,8 +1,8 @@
 ---
 layout: page
-type: instruccion
+type: Instrucción
 title: Estudios
-permalink: /instruccion/
+permalink: /Instrucción/
 ---
 unidad educativa dante Alighieri
 
@@ -13,3 +13,5 @@ instrucción secundaria terminada
 título de bachiller obtenido
 
 de comercio y administración en aplicaciones informáticas.
+
+universidad de guayaquil carrera ingeniería de software(actualmente cursando)
